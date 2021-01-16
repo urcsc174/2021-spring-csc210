@@ -1,4 +1,4 @@
-# Course Syllabus: DMS 290 - Front-end Web Design
+# Course Syllabus:<br>DMS 290 - Front-end Web Design
 
 [TO BE UPDATED FOR THE SPRING 2021 SEMESTER]
 
@@ -57,13 +57,13 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry. | **30%**<br>Each lab assignment will be worth about 1.5% of the overall grade |
+| **Homework Assignments**<br>There is extra work every week at the discretion of the instructor.  Each assignment counts equally toward the total of 30%.  There will be around 10 assignments depending on current changes in the web development industry. | **30%**<br>Each assignment will be worth about 3% of the overall grade |
 | **Projects**<br>There are five projects during the semester, each of which will be completed by a team of students.  Everyone on the team initially gets the same grade, followed by a balancing process that rewards students who completed more work that required, while penalizing students who were unable to complete their portion of the work. | **50%**<br/>Project 1: 10%<br>Project 2: 10%<br>Project 3: 10%<br>Project 4: 10%<br>Project 5: 10% |
 | **Participation**<br>There are several required activities that students must perform for the benefit of the class which include viewing recorded videos, and to the degree possible, participating in real-time discussions, online.  The total of all activities will count equally toward the total of 20% | **20%**<br>Each participation activity will be worth about 1.0% of the overall grade |
 
 ## Labs and Project Assignments
 
-After most lecture videos are published, **labs** and **projects** are made available via the Course Documentation website (the website you're looking at now) and can be completed independently on one's own Internet-connected computer (Mac or PC).
+After most lecture videos are published, **homework assignments** and **projects** are made available via the Course Documentation website (the website you're looking at now) and can be completed independently on one's own Internet-connected computer (Mac or PC).
 
 NOTE: students are required to complete each lab or project within 24 hours of its due date. The professor will make announcements in Slack to let everyone know when each assignment has been published, and when the due date is.
 
