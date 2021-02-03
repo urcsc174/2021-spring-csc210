@@ -1,6 +1,8 @@
 # Course Syllabus:<br>DMS 290 - Front-end Web Design
 
-"Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include Information Architecture, visual design, use of client libraries (mostly JS), and asset management strategies; we will also cover Content Management Systems and introduce web databases using PHP and MySQL.
+Web design focuses on the visual and interactive aspects of web sites using HTML, CSS, and JavaScript. Topics include information architecture, page layout and formatting, color theory, and typography. We will also cover Content Management Systems and introduce web databases using PHP and MySQL. 
+
+**Prerequisite:** Previous experience with HTML, CSS, and JavaScript strongly recommended.
 
 - Section: **DMS 290-1**
 - Title: **Front-end Web Design**
@@ -12,14 +14,14 @@
 - All **course documentation** and **assignments** for DMS 290 is published here: **[docs.csc174.org](http://docs.csc174.org/)**, not in Blackboard
 - All **announcements** for DMS 290 is distributed via "Slack" - an online communication and collaboration tool, not in Blackboard
 
-  - Students are required to **create a Slack account here**: [ join.slack.com/t/dms290/signup](https://join.slack.com/t/dms290/signup) and then monitor the DMS 104 Slack Workspace here: **[dms104.slack.com](https://dms290.slack.com/)** throughout the semester.
+  - Students are required to **create a Slack account here**: [ join.slack.com/t/dms290/signup](https://join.slack.com/t/dms290/signup) and then monitor the DMS 290 Slack Workspace here: **[dms290.slack.com](https://dms290.slack.com/)** throughout the semester.
     - When registering for an account in Slack, students must use their **rochester.edu** email
     - Suggestion: after students setup their Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
 - **Blackboard** is used by students to turn-in assignments and monitor their grade progress only throughout the semester
 
 ## Instructor Information
 
-![professor-kostin](/Users/rkostin/Documents/UR/2021 1. Spring DMS 104/dms104-course-documentation/media/professor-kostin.jpg)
+![professor-kostin](/Users/rkostin/Documents/UR/2021 1. Spring DMS 290/dms290-course-documentation/media/professor-kostin.jpg)
 
 - Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
 - **Messaging/Office Hours**
@@ -48,7 +50,7 @@ A grading rubric is provided for each assignment. Rubrics inform students how as
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-
+### Grade Distribution
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -84,13 +86,13 @@ In addition to the hosted Web service, provided by the University, students will
 - FTP software
 - An updated, popular web browser
 - A reliable Internet connection
-- A local "web stack" (in the second half of the semester)
+- A local "web stack"
 
 If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use directly or through remote access.  Those computers have all the required capabilities and software installed and they are supported by University IT.  To access the University computers go to: [desktop.rochester.edu](https://desktop.rochester.edu)
 
 For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
 
-Mid-way through the semester, the professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, [www.mamp.info/en](www.mamp.info/en))
+The professor will introduce web server software that students can optionally install on their own computer.  The software can be installed using the free version of: MAMP (for both PC and Mac, [www.mamp.info/en](www.mamp.info/en))
 
 ## Lab Assignments and Projects
 
@@ -104,7 +106,7 @@ While working on a lab or project assignment, students may need to ask questions
 
 *When technical help is needed...*
 
-1. The student will FTP (upload) their files to their account on [the class web server](https://csc174.org)
+1. The student will FTP (upload) their files to their account on the Web
 
 2. The student will check what they've uploaded to the server in a web browser and copy the URL
 
