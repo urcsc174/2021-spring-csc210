@@ -1,20 +1,20 @@
 # **Schedule**
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-| Class | Date                      | Lecture/Workshop                                | Assignment                                                  |
-| ----- | ------------------------- | ----------------------------------------------- | ----------------------------------------------------------- |
-| 1     | Friday, February 5, 2021  | Introduction to DMS 290                         | Assignment 1:  Development Tools                                   |
-| 2     | Friday, February 12, 2021 | Website  basics                                 | Assignment 2:  Initial Personal Website                            |
-| 3     | Friday, February 19, 2021 | Information  Architecture                       | Assignment 3:  Information Architecture                            |
-| 4     | Friday, February 26, 2021 | CSS  Architecture                               | Assignment 4:  CSS Architecture<br>(Note: March 3 study break)     |
-| 5     | Friday, March 5, 2021     | Principles  of Page Design, part 1 - Typography | Assignment 5  Typography                                           |
-| 6     | Friday, March 12, 2021    | Principles  of Page Design, part 2 - CRUD       | Assignment 6:  CRUD                                                |
-| 7     | Friday, March 19, 2021    | Principles  of Page Design, part 3 - Layout     | Assignment 7:  Layout                                              |
-| 8     | Friday, March 26, 2021    | CSS  Master Class                               | Project 1: "Flash" website<br>(Note:  March 30 study break) |
-| 9     | Friday, April 2, 2021     | Templates,  Libraries, and Frameworks           | Assignment 8:  Interactivity                                       |
-| 10    | Friday, April 9, 2021     | Content  Management Systems                     | Project  2: Team website                                    |
-| 11    | Friday, April 16, 2021    | Introduction  to PHP with MySQL, part 1         | Assignment 9:  Four Database Functions                             |
-| 12    | Friday, April 23, 2021    | Introduction  to PHP with MySQL, part 2         | Assignment 10:  Remote Databases                                   |
-| 13    | Friday, April 30, 2021    | Persistent  State, part 1                       | Project  3: Phonebook Application                           |
-| 14    | Friday, May 7, 2021       | Persistent  State, part 2                       | Final Review                                                |
+| Class | Date                      | Lecture/Workshop                                | Activities                                                   | Assignment                                                   |
+| ----- | ------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | Friday, February 5, 2021  | Introduction to DMS 290                         | &bull; Take [this quick Google Poll](https://forms.gle/YuCLUVZnSwsvwAHB7) <br>&bull; Request an account on [UR Digital Scholar](https://digitalscholar.rochester.edu/) (or confirm yours still works) | Assignment 1:  Development Tools                             |
+| 2     | Friday, February 12, 2021 | Website  basics                                 |                                                              | Assignment 2:  Initial Personal Website                      |
+| 3     | Friday, February 19, 2021 | Information  Architecture                       |                                                              | Assignment 3:  Information Architecture                      |
+| 4     | Friday, February 26, 2021 | CSS  Architecture                               |                                                              | Assignment 4:  CSS Architecture<br>(Note: March 3 study break) |
+| 5     | Friday, March 5, 2021     | Principles  of Page Design, part 1 - Typography |                                                              | Assignment 5  Typography                                     |
+| 6     | Friday, March 12, 2021    | Principles  of Page Design, part 2 - CRUD       |                                                              | Assignment 6:  CRUD                                          |
+| 7     | Friday, March 19, 2021    | Principles  of Page Design, part 3 - Layout     |                                                              | Assignment 7:  Layout                                        |
+| 8     | Friday, March 26, 2021    | CSS  Master Class                               |                                                              | Project 1: "Flash" website<br>(Note:  March 30 study break)  |
+| 9     | Friday, April 2, 2021     | Templates,  Libraries, and Frameworks           |                                                              | Assignment 8:  Interactivity                                 |
+| 10    | Friday, April 9, 2021     | Content  Management Systems                     |                                                              | Project  2: Team website                                     |
+| 11    | Friday, April 16, 2021    | Introduction  to PHP with MySQL, part 1         |                                                              | Assignment 9:  Four Database Functions                       |
+| 12    | Friday, April 23, 2021    | Introduction  to PHP with MySQL, part 2         |                                                              | Assignment 10:  Remote Databases                             |
+| 13    | Friday, April 30, 2021    | Persistent  State, part 1                       |                                                              | Project  3: Phonebook Application                            |
+| 14    | Friday, May 7, 2021       | Persistent  State, part 2                       |                                                              | Final Review                                                 |
 
