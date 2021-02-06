@@ -5,7 +5,7 @@ Front-end Web Design
 
 ## Friday, February 5, 2021
 
-- Live discussion ([Zoom, at 10:25 AM EST](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09))
-  - Take [this quick Google Poll](https://forms.gle/YuCLUVZnSwsvwAHB7) today so we can talk about it when we meet
+- Live discussion ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3586bd4-8919-427d-be0d-acc6012a86b3))
   - Request an account on [UR Digital Scholar](https://digitalscholar.rochester.edu/) (or confirm yours still works)
+- [Assignment 1: City Website](assign01-city-website/instructions.md) (due: Friday, February 12)
 
