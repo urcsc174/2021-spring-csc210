@@ -5,7 +5,9 @@ Front-end Web Design
 
 ## Friday, February 12, 2021
 
-- **Repository Basics** ([Live Discussion in Zoom at 10:25 AM EST](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09))
-  - After a quick intro lecture we'll transition into workshop mode and then talk about the next assignment
+- **Repository Basics** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ab4f0df-f2e2-436c-bd35-accd01291cc9)) and ([PDF](02-repository-basics/version-control-software.pdf))
+  - Create an account: [GitHub (website)](https://github.com/)
+  - Install: [GitHub Desktop Software (website)](https://desktop.github.com/)
+  - Exchange: [Pick a Website/Repo for Assignment 2 (Google Sheet)](https://docs.google.com/spreadsheets/d/1rAZzYDRKwMR2A0Kp43eG-GwvD_hC88srLtbNwXHsvtM/edit#gid=0)
   - Assignment 2: GitHub (coming soon)
 
