@@ -87,7 +87,7 @@ This next part isn't really defined well on purpose.  The point of DMS 290 is to
 
 ...and be sure to take notes about the changes you make because you need to report them as part of the next step.
 
-Also, note: as you make changes to your website, you should toggle over to the GitHub Desktop software after each task you complete, and make a "commit" for each one.  Be sure you write meaningful comments.  And then from time to time, *Push* your commits to github.com.    d
+Also, note: as you make changes to your website, you should toggle over to the GitHub Desktop software after each task you complete, and make a "commit" for each one.  Be sure you write meaningful comments.  And then from time to time, *Push* your commits to github.com.  
 
 ### Create a readme.md file
 
