@@ -80,7 +80,7 @@ Go checkout your handiwork.  Look at the Assignment 2 folder that was created on
 
 ## Part 4: Make Improvements
 
-This next part isn't really defined well on purpose.  The point of DMS 290 is to learn the principles of design and then apply them to web page - which we haven't done yet.  So the "improvements" you need to do at this point only need to meet these requirements:
+This next part isn't really defined well on purpose.  The point of DMS 290 is to learn the principles of design and then apply them to web pages - which we haven't done yet.  So the "improvements" you need to do at this point only need to meet these requirements:
 
 - **Layout:** change something about the way some or all the **content is positioned/structured** visually on the website in a way that makes it subjectively better in your opinion
 - **Embellishments:** alter the website's **color pallet**, **fonts** (typeface, size, and/or weight), or any other **visual embellishments** (margins, padding, and borders) to subjectively make the website look better in your opinion.  
