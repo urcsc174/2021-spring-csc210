@@ -9,5 +9,5 @@ Front-end Web Design
   - Create an account: [GitHub (website)](https://github.com/)
   - Install: [GitHub Desktop Software (website)](https://desktop.github.com/)
   - Exchange: [Pick a Website/Repo for Assignment 2 (Google Sheet)](https://docs.google.com/spreadsheets/d/1rAZzYDRKwMR2A0Kp43eG-GwvD_hC88srLtbNwXHsvtM/edit#gid=0)
-  - Assignment 2: GitHub (coming soon)
+  - [Assignment 2: GitHub](assign02-github/instructions) (due: Friday, February 19)
 
