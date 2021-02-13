@@ -4,7 +4,7 @@
 
 The goal of this assignment is to practice using some of the features of GitHub: forking, and syncing.  
 
-**If you did the extra credit from Assignment 1, skip to Part 2**
+**If you did the extra credit from Assignment 1, [skip to Part 2**](https://docs.csc174.org/assign02-github/instructions#part-2-share-your-repo-and-get-a-repo)
 
 ## Part 1: Make a Repo for Assignment 1
 
