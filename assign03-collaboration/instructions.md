@@ -2,7 +2,7 @@
 
 *Due: Friday, February 26, 2021*
 
-**The goal** of this assignment is to get up-and-running with GitHub quickly and experiment with collaborating on a simple website to see how it works.
+**The goal** of this assignment is to get up-and-running with GitHub quickly and **experiment with collaborating** on a simple website to see how it works.
 
 **The purpose** of this assignment is to demonstrate how working with a team of web developers is better than working alone using these common industry tools:
 
@@ -73,14 +73,15 @@ The intent here is for your team to take ANY FOUR **Assignment 2** website files
 
 - **Information Architect (IA):** After the team picks four websites by looking at them from Column H in the Google Sheet, go to their associated repositories (Column I), and then in GitHub click the green Code button to download the ZIP files, one at a time (you don't have to Fork these repositories)
   - Note: do NOT put the four websites into your web root for Assignment 3, nor share them in GitHub!  They are not part of the new website.  Keep them separate on your own computer.
-- **Information Architect (IA):** based on however you want to build-out the new Assignment 3 website, quickly create an HTML "scaffolding" - just the HTML tags with some placeholder content and FPO images at first, and sync the four webpages plus the new index page (five HTML documents) to the team's repository
+- **Information Architect (IA):** based on however you want to build-out the new Assignment 3 website, quickly create an HTML "scaffolding" - just the HTML tags with some placeholder content and FPO images at first, and sync the four webpages plus the new index page (five HTML documents) to the team's repository - this will give the Visual Designer and Technician the ability to start their work
+  - Suggestion: typically, the "content" pages (the city pages) have the same HTML structure, so create one HTML document first to represent one city.  That will be your template that you will use to make three copies - one for each city.  Separately, create the homepage which can have a different structure than the content pages.
 - **Visual Designer:** start building the CSS to apply to the entire website
-  - Suggestion: start with the page layout for the four content pages first; embellish with fonts, colors, backgrounds, etc. later
-  - Ask for help in our Slack #help channel for *anything*!
+  - Suggestion: start with the page layout for the four content pages first; embellish with fonts, colors, backgrounds, etc. later.  Layout and style the homepage separately.
+  - If you can't figure out how to layout or style anything you have in mind, ask for help in our Slack #help channel!
 - **Information Architect (IA):** as you replace your placeholders with real content, note that you do NOT have to use all the content! It's more important that you fashion the content to be balanced across the four webpages by editing (moving around, deleting, and even adding!) content as you see fit to make a cohesive, sensible web experience
-  - Work on the four content pages first; the index page last
+  - Suggestion: work on fleshing-out the four content pages first; the index page last
 - **Technician:** note that the use of PHP includes or a JavaScript-powered current page highlighter is NOT required for this assignment, but if your team is okay with it the feel free to use those things
-  - Note: if you're going to frack your website into multiple PHP Includes, ask the professor for hints & tips on how to do that while collaborating.  There's a trick to it!
+  - Note: if you're going to frack your website into multiple PHP Includes, ask the professor for hints & tips on how to do that while collaborating.  There's a trick to it!  If you do it wrong the repository might turn into a mess.
 
 ## Submit the Lab
 
@@ -92,3 +93,4 @@ To get credit for your work:
   - A list of **everyone's name** in your team (including your own)
   - A **link to your team's website** on the class web server
   - A **link to your team's repository** (which should be set to public)
+
