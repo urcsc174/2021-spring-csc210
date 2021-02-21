@@ -6,7 +6,7 @@
 
 **The purpose** of this assignment is to demonstrate how working with a team of web developers is better than working alone using these common industry tools:
 
-- <s>**Localhost** - to work independently</s> *...optional for Assignment 3*
+- <s>**Localhost** - to work independently</s>&nbsp;*...optional for Assignment 3*
 - **GitHub** - to sync your independent work with the rest of the team
 - **Slack** - to communicate with each other remotely and asynchronously
 
