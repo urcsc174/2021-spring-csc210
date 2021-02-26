@@ -3,14 +3,11 @@ Front-end Web Design
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   ⇐ running list of all the slides, assignments, and related links
 
-## Friday, February 19, 2021
+## Friday, February 26, 2021
 
-- **Team Collaboration** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f740b8e-e4ea-4ab3-9662-acd401175a88)) and ([PDF](03-collaboration/team-roles-and-projects.pdf))
-- [Assignment 3: Collaboration](assign03-collaboration/instructions.md) (due: Friday, February 26)
-- Coming soon:
-  - Open Lab Sessions to help with:
-    - HTML, CSS, JavaScript
-    - Digital Scholar and FTP
-    - GitHub
-  - Links to CSC 170 class materials and lecture videos
+- Lecture: Information Architecture ([live discussion at 10:25 AM EST, Zoom](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09)) 
+- Also, later at your convenience, [20 minute lecture in Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84be8c8a-0b3b-4bb2-80df-acdb00f82c99) (and [PDF](04-information-architecture/information-architecture.pdf))
+  - This lecture video must be watched in its entirety in the next *couple days* or so
+- Assignment 4: Information Architecture Definition (coming soon)
+- ALSO Project 1: Information Architected Website (coming soon)
 
