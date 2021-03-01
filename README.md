@@ -9,5 +9,7 @@ Front-end Web Design
   - Also, information about [Markdown (PDF)](04-information-architecture/markdown.pdf)
 - Lecture: [**Information Architecture** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84be8c8a-0b3b-4bb2-80df-acdb00f82c99) and ([PDF](04-information-architecture/information-architecture.pdf))
 - [Assignment 4: Information Architecture Definition](assign04-ia-definition/instructions.md) (due: Friday, March 5)
-- Project 1: Information Architected Website (coming soon)
+- [Project 1: Information Architected Website](project01-information-architecture/instructions.md)
+  - *Due: Friday, March 12, 2021* or
+  - *Due: Friday, March 5, 2021 (fast track, extra credit)*
 
