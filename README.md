@@ -15,7 +15,7 @@ Front-end Web Design
     - HTML, CSS, JS, PHP (*Includes* only)
     - FTP and setting up UR Digital Scholar
     - GitHub
-  - I can also answer questions about Assignment 4 or Project 1, technically due today, but ...well, you know :thumbsup: 
+  - I can also answer questions about Assignment 4 or Project 1
 
 *Continue work on...*
 
