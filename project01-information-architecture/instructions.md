@@ -57,7 +57,7 @@
   - Just make sure that, at the end of this project, all the content makes sense ...no placeholders, gibberish, or sections that don't logically flow from one to another.  I.e. all the content has to look and read like a normal website about four cities.
   - If you need to go out to the web and get more/different text content and images (most likely), then do so.  Just remember where you got it from and add it to the list of sources.
 
-###Hints & Tips
+### Hints & Tips
 
 - Reminder: the goal here is to have four perfectly aligned webpages that all have the same flow, not only top-to-bottom, but have identical structure and outline from page-to-page
 - Make sure the content within sections are more-or-less the same length too!  It would be incorrect to have a very long, detailed section, say "History" on one city's page, and on another page it's very short.  They need to be balanced among all the pages.  That includes data tables too.  If one city has a table, then they all need to have the same kind of table, in the same place with about the same amount of data.
