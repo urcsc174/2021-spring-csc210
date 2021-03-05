@@ -3,13 +3,21 @@ Front-end Web Design
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   ⇐ running list of all the slides, assignments, and related links
 
-## Friday, February 26, 2021
+## Friday, March 5, 2021
 
-- Live Discussion: [**Information Architecture** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89de8fc8-f329-42cf-aea2-acdc012c076b)
-  - Also, information about [Markdown (PDF)](04-information-architecture/markdown.pdf)
-- Lecture: [**Information Architecture** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84be8c8a-0b3b-4bb2-80df-acdb00f82c99) and ([PDF](04-information-architecture/information-architecture.pdf))
-- [Assignment 4: Information Architecture Definition](assign04-ia-definition/instructions.md) (due: Friday, March 5)
-- [Project 1: Information Architected Website](project01-information-architecture/instructions.md)
-  - *Due: Friday, March 12, 2021* or
-  - *Due: Friday, March 5, 2021 (fast track, extra credit)*
+- Lecture: [Principles of Page Design, part 1 of 3, the C.R.A.P Principles (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e7605030-8bcc-446f-8ea5-ace200ddc28b) and ([PDF](05-principles-of-page-design1/principles-of-page-design1.pdf))
+  - [Gestalt Principles Applied in Design (article on the Web)](https://www.webfx.com/blog/web-design/gestalt-principles-applied-in-design/)
+  - [User Inyerface (website)](https://userinyerface.com/) &#8678; *try it out!*
+- Assignment 5: CRAP Principles (coming soon)
+- Live discussion: [OPEN Lab Session at 1:30 PM EST (Zoom)](https://rochester.zoom.us/j/92872427825) &#8678; *note: different time!*
+  - The session will be recorded and posted later in Panopto
+  - Topics today:
+    - HTML, CSS, JS, PHP (*Includes* only)
+    - FTP and setting up UR Digital Scholar
+    - GitHub
+  - I can also answer questions about Assignment 4 or Project 1, technically due today, but ...well, you know :thumbsup: 
+
+*Continue work on...*
+
+- [Project 1: Information Architected Website](project01-information-architecture/instructions.md) (*Due: Friday, March 12, 2021*)
 
