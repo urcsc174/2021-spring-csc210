@@ -33,7 +33,7 @@
   - Add the other members as collaborators to the new repo
   - Make sure everyone on your team is setup and sync'd with the repo on GitHub
 
-##Step 2: Flesh-out an Information Architecture in HTML
+## Step 2: Flesh-out an Information Architecture in HTML
 
 - **Everyone:** decide among your team members who's Information Architecture from Assignment 4 you will use for Project 1
   - You have to pick one from the three of you (you can't pick one from someone else in the class)
