@@ -6,6 +6,7 @@ Front-end Web Design
 ## Friday, March 19, 2021
 
 - NEW: [Assignment 7: Legibility, Readability, and Typography](assign07-readabilty-legibility-typography/instructions.md) (due Friday, March 26)
+- OPTIONAL:  [open lab session at 10:25 AM EDT (Zoom)](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09)
 - Project 2: Principles of Page Design (coming soon)
 
 ## Wednesday, March 17, 2021
