@@ -5,7 +5,7 @@ Front-end Web Design
 
 ## Friday, March 26, 2021
 
-- Live Discussion: **Project 2 Halfway Report** ([Zoom at 10:25 AM EDT](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09 ))
+- Live Discussion: [**Project 2 Halfway Report** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cd58691-e70f-4c14-8278-acf701209c69)
   - ...instructions in [Project 2: Principles of Page Design - Step 5](project02-principles-of-page-design/instructions.md#step-5-half-way-report)
 
 *Continue work on...*
