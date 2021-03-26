@@ -3,22 +3,14 @@ Front-end Web Design
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   ⇐ running list of all the slides, assignments, and related links
 
-## Friday, March 19, 2021
+## Friday, March 26, 2021
 
-- NEW: [Assignment 7: Legibility, Readability, and Typography](assign07-readabilty-legibility-typography/instructions.md) (due Friday, March 26)
-- [Project 2: Principles of Page Design](project02-principles-of-page-design/instructions.md)
-  - *Checkpoint (halfway inspection), due: Friday, March 26, 2021*
-  - *Final submission, due: Friday, April 2, 2021*
+- Live Discussion: **Project 2 Halfway Report** ([Zoom at 10:25 AM EDT](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09 ))
+  - ...instructions in [Project 2: Principles of Page Design - Step 5](project02-principles-of-page-design/instructions.md#step-5-half-way-report)
 
-## Wednesday, March 17, 2021
+*Continue work on...*
 
-- New Topic: [Principles of Page Design, part 3, Typography (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1e8b2e3-d30f-4c53-8967-acec010e7318) and ([PDF](07-principles-of-page-design3/typography.pdf))
-  - [10 Principles Of Readability And Web Typography (Smashing Magazine article)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
-  - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks article)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
-  - [30 Hilarious Examples That Show Why Letter Spacing Is Important (Bored Panda article)](https://www.boredpanda.com/funny-importance-of-kerning/)
+- [Project 2: Principles of Page Design](project02-principles-of-page-design/instructions.md) (*due: Friday, April 2*)
 
-*Last time (Friday (March 12)...*
+*Coming up next in DMS 290: there will be new content to review next Wednesday, March 31, and then a new assignment on Friday, April  2*
 
-- Lecture: [Principles of Page Design, part 2 of 3, Page Layout Principles (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d828abe7-13e5-4209-8d83-ace900d7ffd0) and ([PDF](06-principles-of-page-design2/page-layout.pdf)) 
-- [Assignment 6: Page Layout](assign06-layout-principles/instructions.md) (*Due: Friday, March 19, 2021*)
--  [OPEN Lab Session (Panopto) - TOPIC: *PHP Includes* (15 minutes)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53f2e68e-b2d4-431b-82f7-acea01497a5f)
