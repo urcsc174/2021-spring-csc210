@@ -54,7 +54,8 @@ The focus of Project 2 is on **Visual Design**.  Whoever take the role of Visual
     - Conversion of each webpage into an F-pattern layout
     - Creation of a new index (homepage) that uses a Z-pattern layout
     - Good use of typography to make the entire website more legible and readable, using the installation of custom fonts
-
+  - NOTE: if the fonts from Project 1 are really good AND they re custom installed web fonts AND you don't think you can improve on them, then you can re-use them - you don't have to swap them out.  But you do have to explain them in your report - explain why those fonts are appropriate for the content of the website.
+    
     ...so find a Project 1 that looks like you can make significant improvements because *that's* how you'll be graded!
 
 *When your team is ready to make a Project 1 selection:*
@@ -79,7 +80,7 @@ The focus of Project 2 is on **Visual Design**.  Whoever take the role of Visual
 
 The new Project 2 website will need to fulfill the following requirements:
 
-- Each city-page must be re-flowed into a F-pattern
+- Each city-page must be re-flowed into a F-pattern AND each arm on the F must contain **three** items, side-by-side
 - A new index (homepage) must be created and follow a Z-pattern
 - The entire website (five pages) will need to be made-over with specific improvements to demonstrate your understanding of:
   - The CRAP principles
