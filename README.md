@@ -3,14 +3,13 @@ Front-end Web Design
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   ⇐ running list of all the slides, assignments, and related links
 
-## Friday, March 26, 2021
+## Wednesday, March 31, 2021
 
-- Live Discussion: [**Project 2 Halfway Report** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6cd58691-e70f-4c14-8278-acf701209c69)
-  - ...instructions in [Project 2: Principles of Page Design - Step 5](project02-principles-of-page-design/instructions.md#step-5-half-way-report)
+- NEW TOPIC:  [Content Management Systems (CMSs) (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=023dd88a-d7a7-4f23-ab5d-acf800cebac7) and ([PDF](09-content-management-systems/content-management-systems.pdf))
+  - Assignment 8: WordPress (coming soon - Friday morning)
+  - Live discussion: Friday at 10:25 AM EDT (via Zoom)
 
 *Continue work on...*
 
 - [Project 2: Principles of Page Design](project02-principles-of-page-design/instructions.md) (*due: Friday, April 2*)
-
-*Coming up next in DMS 290: there will be new content to review next Wednesday, March 31, and then a new assignment on Friday, April  2*
 
