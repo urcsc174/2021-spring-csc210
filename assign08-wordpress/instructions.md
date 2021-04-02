@@ -33,7 +33,7 @@ The following steps assume you are familiar with basic WordPress concepts and ho
 
 Take a look at both the front and backends of your WordPress website using the links from the previous step, and then...
 
-##Step 2: Switch from a Blog to a Static Website
+## Step 2: Switch from a Blog to a Static Website
 
 Assuming you don't want people to comment on your website, you need to change some of the settings of your WordPress website to convert it from a *blog* to a *static* Website
 
