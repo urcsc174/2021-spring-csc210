@@ -49,3 +49,24 @@ Remember: you need to resolve conflicts whenever they occur.
    - Create a fifth H2 followed by a short paragraph followed by **an HTML form** (action="#")
    - Within the HTML form create **three labels and input fields (various kinds) followed by a submit button**
 
+Step 3: Install and Use Bootstrap
+--------------------
+
+*30 Minutes*
+
+Note: for the following steps (and for the rest of this assignment) you'll need to [use the instructions on the Bootstrap website](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+<hr>
+
+
+1. Install Bootstrap on the webpage
+2. Use the following Bootstrap features somewhere on the page (see the Bootstrap Docs for instructions)
+   - a container
+   - three "wells" in a row with some content side-by-side
+   - style the table (at the very least, alternate striped rows)
+   - style the list
+   - style the HTML form
+3. When done, indicate so on [our shared Google Sheet](https://docs.google.com/spreadsheets/d/17hWZWyvZobvzQhYiwNjiSP8E1cHAMDaDE1f0p8tx7zs/edit#gid=0) by setting the background color of your GitHub repo link to green
+
+
+--------------------
