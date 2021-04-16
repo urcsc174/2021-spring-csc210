@@ -97,7 +97,7 @@ For the carousel, use the [Carousel With Captions from the Bootstrap Docs](https
 
 1. Create a fifth webpage named index and stitch it into the navigation
 
-2. On the index page, install a Jumbotron with four parts; one that links to each subpage
+2. On the index page, install a Carousel with four parts; one that links to each subpage
 
 Step 6: Publish and Turn It In
 --------------------
