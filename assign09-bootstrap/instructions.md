@@ -60,7 +60,7 @@ Note: for the following steps (and for the rest of this assignment) you'll need 
 
 
 1. Install Bootstrap on the webpage
-2. Use the following Bootstrap features somewhere on the page (see the Bootstrap Docs for instructions)
+2. Use the following Bootstrap features somewhere on the page (see [the Bootstrap Docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/) for instructions)
    - a container
    - three "wells" in a row with some content side-by-side
    - style the table (at the very least, alternate striped rows)
