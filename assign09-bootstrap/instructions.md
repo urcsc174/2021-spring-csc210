@@ -68,5 +68,22 @@ Note: for the following steps (and for the rest of this assignment) you'll need 
    - style the HTML form
 3. When done, indicate so on [our shared Google Sheet](https://docs.google.com/spreadsheets/d/17hWZWyvZobvzQhYiwNjiSP8E1cHAMDaDE1f0p8tx7zs/edit#gid=0) by setting the background color of your GitHub repo link to green
 
-
+Step 4: Build a Website With More Content
 --------------------
+
+*15 Minutes*
+
+1. Using [our shared Google Sheet](https://docs.google.com/spreadsheets/d/17hWZWyvZobvzQhYiwNjiSP8E1cHAMDaDE1f0p8tx7zs/edit#gid=0), download three other completed webpages and add them to your repository
+
+   - You'll probably need to rename the files to something appropriate, like file2.html, file3.html, etc.
+   - Remember: there is a special process when changing file names while using GitHub
+
+2. Normalize the webpages: make sure they all install Bootstrap the same way
+   - If you're in a team that's using a localhost (MAMP or WAMP) you might want to setup a PHP Include for the HEAD
+   - Make sure all four webpages still display correctly
+
+3. Add a Bootstrap navigation element to all the webpages so the user can navigate from page to page
+
+   - Use the basic [Nav styles from the Bootstrap Docs](https://getbootstrap.com/docs/5.0/components/carousel/#with-captions)
+
+   - If you're in a team that's using a localhost, you'll want to use a PHP Include
