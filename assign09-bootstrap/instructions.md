@@ -84,6 +84,6 @@ Step 4: Build a Website With More Content
 
 3. Add a Bootstrap navigation element to all the webpages so the user can navigate from page to page
 
-   - Use the basic [Nav styles from the Bootstrap Docs](https://getbootstrap.com/docs/5.0/components/carousel/#with-captions)
+   - Use the basic [Nav styles from the Bootstrap Docs](https://getbootstrap.com/docs/5.0/components/navbar/#nav)
 
    - If you're in a team that's using a localhost, you'll want to use a PHP Include
