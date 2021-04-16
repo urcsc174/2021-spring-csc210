@@ -87,3 +87,26 @@ Step 4: Build a Website With More Content
    - Use the basic [Nav styles from the Bootstrap Docs](https://getbootstrap.com/docs/5.0/components/navbar/#nav)
 
    - If you're in a team that's using a localhost, you'll want to use a PHP Include
+
+Step 5: Build a Homepage with a Carousel
+--------------------
+
+*10 Minutes*
+
+For the carousel, use the [Carousel With Captions from the Bootstrap Docs](https://getbootstrap.com/docs/5.0/components/carousel/#with-captions)
+
+1. Create a fifth webpage named index and stitch it into the navigation
+
+2. On the index page, install a Jumbotron with four parts; one that links to each subpage
+
+Step 6: Publish and Turn It In
+--------------------
+
+*Five minutes*
+
+1. One team member: publish the five page website in a folder named **assignment09** in UR Digital Scholar
+2. Paste a link to the published website in [our shared Google Sheet](https://docs.google.com/spreadsheets/d/17hWZWyvZobvzQhYiwNjiSP8E1cHAMDaDE1f0p8tx7zs/edit#gid=0)
+3. EVERYONE (separately) go to Blackboard and make a submission for **Assignment 9: Bootstrap**, and in the Write section, add:
+   - Names of the other team members AND their GitHub names
+   - A link to the GitHub repository you used for Assignment 9
+   - A link to the published website on UR Digital Scholar for Assignment 9
