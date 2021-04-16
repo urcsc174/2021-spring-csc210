@@ -19,3 +19,33 @@ Step 1: Create Teams
 3. **Create a new GitHub repository** and setup the team as collaborators
    - *IMPORTANT: This assignment will require everyone use GitHub; everyone will have to do a relatively equal amount of work, as determined by the proper use of commits in the repository*
 4. In [our shared Google Sheet](https://docs.google.com/spreadsheets/d/17hWZWyvZobvzQhYiwNjiSP8E1cHAMDaDE1f0p8tx7zs/edit#gid=0), **paste a link to the GitHub repo
+
+Step 2: Add Content
+--------------------
+
+*Ten minutes*
+
+Note: for the following steps (for the rest of this assignment) you need to coordinate with your team, who does what  (typically by using Slack), and then quickly and often use GitHub to:
+
+- Write a Summary
+- Commit to master
+- Push origin
+
+...quickly and often, while *Pulling* from the origin whenever your team members make their updates.
+
+Remember: you need to resolve conflicts whenever they occur. 
+
+<hr>
+
+
+1. **Create a new, plain, empty HTML document** in the repo; everyone sync to local file system
+   - Do not name the file *index*
+2. Everyone work on the same document and **create placeholder content** ([lorem ipsum](https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups) and [FPO images](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)); also note, when creating similar elements, you must use different amounts of placeholder content to simulate real content
+   - A simple document outline with **one H1, and three H2s**
+   - For the H2s add **three paragraphs** under each
+   - **Embed small images** between the H2s and their following paragraphs
+   - Create a fourth H2 followed by a short paragraph followed by **a data table** (at least 3x5 but more is better)
+   - Under the data table, create another short paragraph followed by **an unordered list** (at least five items)
+   - Create a fifth H2 followed by a short paragraph followed by **an HTML form** (action="#")
+   - Within the HTML form create **three labels and input fields (various kinds) followed by a submit button**
+
