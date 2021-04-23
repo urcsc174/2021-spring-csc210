@@ -9,7 +9,7 @@ Front-end Web Design
 
   - [CSS "Specifishity" (PDF)](12-overrides-and-specificity/css-specifishity.pdf)
   - [Specificity Calculator (web app)](https://specificity.keegan.st/)
-  - Starter files: [NYC Bootstrap (ZIP)](assign10-specificity/nyc-bootstrap.zip) 
+  - Starter files: [NYC Bootstrap (ZIP)](assign10-overrides-and-specificity/nyc-bootstrap.zip) 
   - Completed files: [NYC Bootstrap - finished (ZIP)](12-overrides-and-specificity/nyc-bootstrap-finished.zip)
 
   *NOTE: today's workshop was graded based on attendance (pass/fail)*
