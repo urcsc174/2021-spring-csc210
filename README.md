@@ -6,5 +6,6 @@ Front-end Web Design
 ## Friday, April 23, 2021
 
 - In-class Workshop: **CSS Specificity** ([live Zoom meeting at 10:25 AM EDT](https://rochester.zoom.us/j/99406386666?pwd=VEV3NWNlSUZEMWlZc2VzNDIwWG1UUT09))
+  - Starter files: [NYC Bootstrap (ZIP)](assign10-specificity/nyc-bootstrap.zip)
 - Project 4: Customized Bootstrap Website (coming soon)
 
