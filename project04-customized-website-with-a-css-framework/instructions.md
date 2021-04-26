@@ -88,4 +88,4 @@ The focus of Project 4 is evenly distributed among all TWO roles: Information Ar
 
 ----
 
-...instructions for *Part 2: Website*, coming soon
+...instructions for *Part 2: Website*, will be published on Friday, April 30
