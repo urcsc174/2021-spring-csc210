@@ -12,7 +12,8 @@ Front-end Web Design
   - Starter files: [NYC Bootstrap (ZIP)](assign10-overrides-and-specificity/nyc-bootstrap.zip) 
   - Completed files: [NYC Bootstrap - finished (ZIP)](12-overrides-and-specificity/nyc-bootstrap-finished.zip)
 
-  *NOTE: today's workshop was graded based on attendance (pass/fail)*
-
-- Project 4: Customized Bootstrap Website (coming soon)
+- [Project 4: Customized Website with a CSS Framework](project04-customized-website-with-a-css-framework/instructions.md)
+  - *Part 0 "Setup" due: Wednesday, April 28*
+  - *Part 1 "Project Plan" due: Friday, April 30*
+  - *Part 2 "Website" due: Friday, May 7 (last day of classes*)
 
