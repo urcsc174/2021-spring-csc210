@@ -1,4 +1,4 @@
-# Project 4: Customized Website with a CSS Framework
+# Project 4a: Customized Website with a CSS Framework (Project Plan)
 
 *Part 0 "Setup" due: Wednesday, April 28*
 
@@ -88,4 +88,5 @@ The focus of Project 4 is evenly distributed among all TWO roles: Information Ar
 
 ----
 
-...instructions for *Part 2: Website*, will be published on Friday, April 30
+...continue on to [Part 2: Website Construction](../project04b-customized-website-with-a-css-framework/instructions.md)
+
