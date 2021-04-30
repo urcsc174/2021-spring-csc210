@@ -4,7 +4,7 @@
 
 *Part 1 "Project Plan" due: Friday, April 30*
 
-*Part 2 "Website" due: Friday, May 7 (last day of classes*)
+*Part 2 "Website Construction" due: Friday, May 7 (last day of classes*)
 
 **The goal** of this project is to work as a two-person team to create and publish a new website, with architected content and a look & feel that uses all the principles of visual design, and then host it on your own UR Digital Scholar account.
 
